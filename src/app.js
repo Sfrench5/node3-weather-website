@@ -2,7 +2,6 @@
 
 // ! Can only send one response or you will get a node error
 
-
 const path = require('path')
 const express = require('express')
 const hbs = require('hbs')
